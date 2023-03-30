@@ -18,6 +18,7 @@ public class Main {
         car2.start();
         car2.stop();
 
+        System.out.println("Done");
 
 
 
